@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Qual o maior estado do Brasil?',
+    'A Amazônia'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual o maior feriado dos EUA?',
+    'É o Memorial Day'
 )
